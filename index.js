@@ -1,3 +1,4 @@
+//this is the index file that will serve as the ultimate traffic controller
 const express = require('express')
 const bodyParser = require('body-parser');
 const app = express();
